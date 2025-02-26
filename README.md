@@ -31,7 +31,6 @@ Después de entrenar y comparar los modelos, obtuvimos los siguientes resultados
 ## 🗂️ **Estructura del Repositorio**  
 El repositorio contiene las siguientes carpetas y archivos:  
 
-📂 **`/data/`** → (📎 No incluido en el repositorio debido a restricciones de tamaño)  
 📂 **`/notebooks/`** → Contiene el análisis exploratorio y el modelado de datos.  
 📂 **`/models/`** → Modelos entrenados y optimizados.  
 📂 **`/results/`** → Reportes y visualizaciones de los resultados.  
