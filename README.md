@@ -32,8 +32,6 @@ Después de entrenar y comparar los modelos, obtuvimos los siguientes resultados
 El repositorio contiene las siguientes carpetas y archivos:  
 
 📂 **`/notebooks/`** → Contiene el análisis exploratorio y el modelado de datos.  
-📂 **`/models/`** → Modelos entrenados y optimizados.  
-📂 **`/results/`** → Reportes y visualizaciones de los resultados.  
 📄 **`README.md`** → Este archivo con la documentación del proyecto.  
 📄 **`Used-Cars-Prediction.ipynb`** → Notebook principal con el desarrollo del modelo.  
 
