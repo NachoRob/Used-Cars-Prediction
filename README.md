@@ -51,7 +51,7 @@ El repositorio contiene las siguientes carpetas y archivos:
 Para correr este proyecto en tu máquina:  
 
 1️⃣ Clona el repositorio:  
-   ```bash
+   ```bash```
    git clone https://github.com/NachoRob/Used-Cars-Prediction.git
    cd Used-Cars-Prediction
 
