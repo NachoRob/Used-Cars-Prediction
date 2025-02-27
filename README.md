@@ -55,11 +55,11 @@ Para correr este proyecto en tu máquina:
    git clone https://github.com/NachoRob/Used-Cars-Prediction.git
    cd Used-Cars-Prediction
 
-2️⃣ Instala las dependencias
+2️⃣ Instala las dependencias:
    ```bash```
    pip install -r requirements.txt
 
-3️⃣ Ejecuta el notebook principal
+3️⃣ Ejecuta el notebook principal:
    ```bash```
    jupyter notebook Used-Cars-Prediction.ipynb
 
