@@ -51,17 +51,17 @@ El repositorio contiene las siguientes carpetas y archivos:
 Para correr este proyecto en tu máquina:  
 
 1️⃣ Clona el repositorio:  
-   ```bash```
+   ```bash
    git clone https://github.com/NachoRob/Used-Cars-Prediction.git
-   cd Used-Cars-Prediction
+   cd Used-Cars-Prediction```
 
 2️⃣ Instala las dependencias
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt```
 
 3️⃣ Ejecuta el notebook principal
    ```bash
-   jupyter notebook Used-Cars-Prediction.ipynb
+   jupyter notebook Used-Cars-Prediction.ipynb```
 
 🤝 Contribuciones
 Si quieres mejorar el proyecto, ¡bienvenido! Puedes hacer un fork, trabajar en mejoras y enviar un pull request.
